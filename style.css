@@ -157,6 +157,7 @@ td, th {
 #logo {
 	width: 150px;
 	height: 150px;
+	text-align: left;
 }
 
 #dxd {
