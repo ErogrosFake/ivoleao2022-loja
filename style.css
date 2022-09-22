@@ -157,7 +157,6 @@ td, th {
 #logo {
 	width: 150px;
 	height: 150px;
-	text-align: left;
 }
 
 #dxd {
@@ -186,6 +185,26 @@ td, th {
 }
 
 #dragon {
+	width: 250px;
+	height: 350px;
+}
+
+#free {
+	width: 250px;
+	height: 350px;
+}
+
+#kake {
+	width: 250px;
+	height: 350px;
+}
+
+#lover {
+	width: 250px;
+	height: 350px;
+}
+
+#eva {
 	width: 250px;
 	height: 350px;
 }
