@@ -1,5 +1,9 @@
+html {
+	background-color: rgb(10 , 14 , 15);
+}
+
 header {
-	background: rgb(10 , 14 , 15);
+	background: rgb(10 , 14 , 25);
 	padding: 20px 0;
 }
 
