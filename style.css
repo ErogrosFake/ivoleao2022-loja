@@ -21,6 +21,8 @@ nav {
 
 h2 {
 	color: aliceblue;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 p {
