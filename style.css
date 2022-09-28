@@ -19,6 +19,10 @@ nav {
 	right: 0;
 }
 
+p {
+	color: aliceblue;
+}
+
 nav li {
 	display: inline;
 }
